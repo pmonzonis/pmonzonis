@@ -29,6 +29,7 @@
 
 - 🔧 &nbsp;
   ![OpenShift](https://img.shields.io/badge/-OpenShift-333333?style=flat&logo=redhatopenshift&logoColor=red)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Camunda](https://img.shields.io/badge/-Camunda-333333?style=flat&logo=camunda)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -36,7 +37,7 @@
   ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
   
 - :cloud: &nbsp;
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
 
 
